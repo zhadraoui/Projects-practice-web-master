@@ -4,7 +4,6 @@
 
 <br/>
 
-### Project List: https://practice-web-a340e.web.app/
 
 ---
 
